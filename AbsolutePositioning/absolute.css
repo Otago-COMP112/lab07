@@ -23,4 +23,19 @@ div{
 #divTwo{
 	background-color:#C7F0D2;
 	color:inherit;
+	position: absolute;
+	bottom: 100px;
+	left: 200px;
+}
+
+p {
+	position: relative;
+}
+
+span{
+	position: absolute; 
+	bottom:25px;
+    left:50px;
+    color:red;
+    background-color:inherit;
 }
